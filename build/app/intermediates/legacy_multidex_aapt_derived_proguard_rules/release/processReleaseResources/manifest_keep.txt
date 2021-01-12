@@ -1,0 +1,4 @@
+# Referenced at /Users/nasir/Documents/Nasir Javaid/Flutter Apps/TCL/madinaSaloon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:28
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/nasir/Documents/Nasir Javaid/Flutter Apps/TCL/madinaSaloon/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:28
+-keep class io.flutter.app.FlutterApplication { <init>(); }

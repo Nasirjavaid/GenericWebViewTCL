@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582020137852",
+    "project_id": "honupatientapplication",
+    "storage_bucket": "honupatientapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582020137852:android:8493c76f076abb9ec51af9",
+        "android_client_info": {
+          "package_name": "com.truemedit.honu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582020137852-lq41cauh6frbd5kemba448k8m20uou7r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.truemedit.honu",
+            "certificate_hash": "79c2a16cf098402054c73824c307379d3aa2cf43"
+          }
+        },
+        {
+          "client_id": "582020137852-6ejohup922fod1h8son2u0ktr3fbbjnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr1QG4DEDOSr89PeuqgDcfGJYvHe1mhMI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582020137852-6ejohup922fod1h8son2u0ktr3fbbjnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

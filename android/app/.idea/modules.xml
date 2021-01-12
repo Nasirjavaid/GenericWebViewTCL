@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1093604988/android.iml" filepath="$PROJECT_DIR$/.idea/modules/1093604988/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/726217783/connectivity.iml" filepath="$PROJECT_DIR$/.idea/modules/726217783/connectivity.iml" group="android/connectivity" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1621651413/flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/1621651413/flutter_plugin_android_lifecycle.iml" group="android/flutter_plugin_android_lifecycle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1992798726/google_maps_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/1992798726/google_maps_flutter.iml" group="android/google_maps_flutter" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2026698939/path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/2026698939/path_provider.iml" group="android/path_provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-936569778/shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-936569778/shared_preferences.iml" group="android/shared_preferences" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/248895783/sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/248895783/sqflite.iml" group="android/sqflite" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1457140758/url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/-1457140758/url_launcher.iml" group="android/url_launcher" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/546548244/webview_flutter.iml" filepath="$PROJECT_DIR$/.idea/modules/546548244/webview_flutter.iml" group="android/webview_flutter" />
+    </modules>
+  </component>
+</project>

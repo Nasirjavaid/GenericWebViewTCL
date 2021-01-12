@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/nasir/Documents/Nasir Javaid/Flutter Apps/TCL/madinaSaloon/build/shared_preferences/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/nasir/.gradle/caches/transforms-2/files-2.1/f678746e453f404940f481c439794c91/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/nasir/Documents/Nasir Javaid/Flutter Apps/TCL/madinaSaloon/build/shared_preferences/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/nasir/.gradle/caches/transforms-2/files-2.1/f678746e453f404940f481c439794c91/core-1.1.0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/nasir/Documents/Nasir Javaid/Flutter Apps/TCL/madinaSaloon/build/shared_preferences/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/nasir/.gradle/caches/transforms-2/files-2.1/f678746e453f404940f481c439794c91/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/nasir/Documents/Nasir Javaid/Flutter Apps/TCL/madinaSaloon/build/shared_preferences/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/nasir/.gradle/caches/transforms-2/files-2.1/f678746e453f404940f481c439794c91/core-1.1.0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/nasir/Documents/Nasir Javaid/Flutter Apps/TCL/madinaSaloon/build/shared_preferences/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/nasir/.gradle/caches/transforms-2/files-2.1/f678746e453f404940f481c439794c91/core-1.1.0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

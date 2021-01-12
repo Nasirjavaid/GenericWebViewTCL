@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/nasir/Documents/Nasir Javaid/Flutter Apps/TCL/madinaSaloon/build/google_maps_flutter/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/nasir/.gradle/caches/transforms-2/files-2.1/871a8f63d7276ee0c8d8bb02249c6d1b/play-services-base-17.0.0/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/nasir/Documents/Nasir Javaid/Flutter Apps/TCL/madinaSaloon/build/google_maps_flutter/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/nasir/.gradle/caches/transforms-2/files-2.1/871a8f63d7276ee0c8d8bb02249c6d1b/play-services-base-17.0.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/nasir/Documents/Nasir Javaid/Flutter Apps/TCL/madinaSaloon/build/google_maps_flutter/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/nasir/.gradle/caches/transforms-2/files-2.1/871a8f63d7276ee0c8d8bb02249c6d1b/play-services-base-17.0.0/res/color/common_google_signin_btn_text_light.xml"
+    }
+]
