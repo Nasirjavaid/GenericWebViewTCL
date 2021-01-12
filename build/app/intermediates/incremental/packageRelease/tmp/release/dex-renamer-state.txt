@@ -1,4 +1,4 @@
-#Tue Jan 12 04:11:44 PKT 2021
-base.0=/Users/nasir/Documents/Nasir Javaid/Flutter Apps/TCL/madinaSaloon/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
+#Wed Jan 13 01:30:22 PKT 2021
+base.0=/Users/nasir/Documents/Nasir Javaid/Flutter Apps/TCL/madinaSaloon/build/app/intermediates/transforms/r8/release/0/classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
